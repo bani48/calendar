@@ -1,4 +1,3 @@
-project
+Calendar
 =======
 
-project web
